@@ -16,4 +16,4 @@ Product security architect working on **trust in software and AI supply chains**
 - 8 U.S. patents across hypervisor security, device tamper detection and attack monitoring
 
 **Find me**
-[Google Scholar](YOUR_SCHOLAR_LINK) · [LinkedIn](https://www.linkedin.com/in/nidhi-sh) · s.nidhi.sharma@gmail.com
+[Google Scholar](https://scholar.google.com/citations?user=mW_v4wYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/nidhi-sh) · s.nidhi.sharma@gmail.com
